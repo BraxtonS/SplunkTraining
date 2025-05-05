@@ -12,6 +12,7 @@ Being a cybersecurity professional comes with a steadily evolving toolset as tim
 <p align="center">
 Donwloaded both Splunk Enterprise and the Universal Forwarder in order to send data to Splunk when testing.: <br/> <br />
 <img src="https://i.imgur.com/j6VWly2.png" height="80%" width="80%" alt="Lab Screenshots"/>
+  <br />
 <img src="https://i.imgur.com/XwwhDr9.png" height="80%" width="80%" alt="Lab Screenshots"/>
 <br />
 <br />
@@ -23,6 +24,17 @@ The Universal Forwarder required a slight configuration in Splunk Enterprise in 
 <p align="center">
 In order to further confirm that everything is working, I checked that my hostname appeared in the 'Data Summary' section under 'Search and Reporting'. I added a photo of my hostname in the command prompt for clarity.: <br/> <br />
 <img src="https://i.imgur.com/SAVnwKQ.png" height="80%" width="80%" alt="Lab Screenshots"/>
+  <br />
 <img src="https://i.imgur.com/3tksbk6.png" height="80%" width="80%" alt="Lab Screenshots"/>
+<br />
+<br />
+<p align="center">
+After configuring and confirming everything was working, I started with a simple search for all data from my hostname. I made sure to set the results to 'verbose' mode which will return all event and field data.: <br/> <br />
+<img src="https://i.imgur.com/QTRUOLv.png" height="80%" width="80%" alt="Lab Screenshots"/>
+<br />
+<br />
+<p align="center">
+So my next task was finding a sample dataset and getting it into Splunk. So I managed to find a sample dataset with plenty of sourcetypes on Github called Boss of the SOC (BOTS) Dataset Version 3. After following the listed instructions I managed to get the dataset into Splunk, with confirmation.: <br/> <br />
+<img src="https://i.imgur.com/UyG5r7t.png" height="80%" width="80%" alt="Lab Screenshots"/>
 <br />
 <br />
