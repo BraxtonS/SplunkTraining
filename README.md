@@ -1,4 +1,4 @@
-# SplunkTraining
+# Splunk Training (Part 1)
 Learning Splunk from the ground up and simulating real workplace functionality. 
 
 
@@ -54,4 +54,13 @@ My final step for this preliminary part was creating my own dataset and getting 
 I then wrapped it all up with performing a search for the 'test_ingestion' index. Showing the results below.: <br/> <br />
 <img src="https://i.imgur.com/bkC5MPV.png" height="80%" width="80%" alt="Lab Screenshots"/>
 <br />
+<br />
+</p>
+
+
+# Splunk Training (Part 2)
+Taking my current knowledge of Ansible and attempting to apply it to modern technologies.  
+
+<h2>Description</h2>
+So part 1 established some base level knowledge of installing and using Splunk Enterprise as a SIEM as well as how it works together with pieces such as the Universal Forwarder. I want to take it a step further and deepen my practical knowledge by using more of the filters when searching as well as utilizing the SPL language to visualize data in tables.    
 <br />
