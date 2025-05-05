@@ -10,7 +10,19 @@ Being a cybersecurity professional comes with a steadily evolving toolset as tim
 <h2>Lab Screenshots</h2>
 
 <p align="center">
-Successfully made account on Linode in order to establish and make VMs: <br/> <br />
+Donwloaded both Splunk Enterprise and the Universal Forwarder in order to send data to Splunk when testing.: <br/> <br />
+<img src="https://i.imgur.com/j6VWly2.png" height="80%" width="80%" alt="Lab Screenshots"/>
 <img src="https://i.imgur.com/XwwhDr9.png" height="80%" width="80%" alt="Lab Screenshots"/>
+<br />
+<br />
+<p align="center">
+The Universal Forwarder required a slight configuration in Splunk Enterprise in order to locate where we would be recieving the data (port 9997). So here is the result in the 'Forwarding and Receiving' settings on Splunk Enterprise.: <br/> <br />
+<img src="https://i.imgur.com/pyFJjZN.png" height="80%" width="80%" alt="Lab Screenshots"/>
+<br />
+<br />
+<p align="center">
+In order to further confirm that everything is working, I checked that my hostname appeared in the 'Data Summary' section under 'Search and Reporting'. I added a photo of my hostname in the command prompt for clarity.: <br/> <br />
+<img src="https://i.imgur.com/SAVnwKQ.png" height="80%" width="80%" alt="Lab Screenshots"/>
+<img src="https://i.imgur.com/3tksbk6.png" height="80%" width="80%" alt="Lab Screenshots"/>
 <br />
 <br />
