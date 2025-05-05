@@ -11,6 +11,6 @@ Being a cybersecurity professional comes with a steadily evolving toolset as tim
 
 <p align="center">
 Successfully made account on Linode in order to establish and make VMs: <br/> <br />
-<img src="https://imgur.com/a/uEzmsWH.png" height="80%" width="80%" alt="Lab Screenshots"/>
+<img src="https://imgur.com/a/uEzmsWH" height="80%" width="80%" alt="Lab Screenshots"/>
 <br />
 <br />
