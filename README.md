@@ -36,5 +36,22 @@ After configuring and confirming everything was working, I started with a simple
 <p align="center">
 So my next task was finding a sample dataset and getting it into Splunk. So I managed to find a sample dataset with plenty of sourcetypes on Github called Boss of the SOC (BOTS) Dataset Version 3. After following the listed instructions I managed to get the dataset into Splunk, with confirmation.: <br/> <br />
 <img src="https://i.imgur.com/UyG5r7t.png" height="80%" width="80%" alt="Lab Screenshots"/>
+<img src="https://i.imgur.com/po4hyDB.png" width="80%" alt="Lab Screenshots"/>
+<br />
+<br />
+<p align="center">
+I managed to do another search for the BOTSV3 dataset in Splunk. I then filtered the results just to play around with Splunk a little.: <br/> <br />
+<img src="https://i.imgur.com/H2Dx5Qq.png" height="80%" width="80%" alt="Lab Screenshots"/>
+<br />
+<br />
+<p align="center">
+My final step for this preliminary part was creating my own dataset and getting it as an index in Splunk. So I set up an index called 'test_ingestion' in the index settings and then made the dataset in notepad with the same name.: <br/> <br />
+<img src="https://i.imgur.com/NjSJUbb.png" height="80%" width="80%" alt="Lab Screenshots"/>
+<img src="https://i.imgur.com/kO9s8pl.png" height="80%" width="80%" alt="Lab Screenshots"/>
+<br />
+<br />
+<p align="center">
+I then wrapped it all up with performing a search for the 'test_ingestion' index. Showing the results below.: <br/> <br />
+<img src="https://i.imgur.com/bkC5MPV.png" height="80%" width="80%" alt="Lab Screenshots"/>
 <br />
 <br />
