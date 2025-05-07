@@ -59,8 +59,19 @@ I then wrapped it all up with performing a search for the 'test_ingestion' index
 
 
 # Splunk Training (Part 2)
-Taking my current knowledge of Ansible and attempting to apply it to modern technologies.  
+Taking my rudimentary knowledge of Splunk and attempting to strengthen it iteratively.  
 
 <h2>Description</h2>
-So part 1 established some base level knowledge of installing and using Splunk Enterprise as a SIEM as well as how it works together with pieces such as the Universal Forwarder. I want to take it a step further and deepen my practical knowledge by using more of the filters when searching as well as utilizing the SPL language to visualize data in tables.    
+So the previous established some base level knowledge of installing and using Splunk Enterprise as a SIEM as well as how it works together with pieces such as the Universal Forwarder. I want to take it a step further and deepen my practical knowledge by using more of the filters when searching as well as utilizing the SPL language to visualize data in tables. Furthermore I looked to utilize the dashboards in Splunk to provide dynamic data when needed.     
+<br />
+
+<h2>Lab Screenshots</h2>
+
+<p align="center">
+Whilst researching, I found that Splunk Enterprise uses a query language similar to SQL (which I am proficient in). So I took it upon myself to utilize SPL in some searches on the BOTSV3 dataset to return key fields that I felt would be useful during an incident.: <br/> <br />
+<img src="https://i.imgur.com/bt5628F.png" height="80%" width="80%" alt="Lab Screenshots"/>
+  <br />
+  <br />
+  I noticed that some fields were missing, which prompted my next search.
+<br />
 <br />
